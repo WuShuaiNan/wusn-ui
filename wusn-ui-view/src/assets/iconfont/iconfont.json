@@ -1,0 +1,51 @@
+{
+  "id": "4008515",
+  "name": "wusn-ui",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1727460",
+      "name": "226角色、群体",
+      "font_class": "jiaosequnti",
+      "unicode": "e8c9",
+      "unicode_decimal": 59593
+    },
+    {
+      "icon_id": "20853368",
+      "name": "注销",
+      "font_class": "zhuxiao",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "2077715",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "11267956",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "316167",
+      "name": "refresh",
+      "font_class": "8",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "866508",
+      "name": "实心地球",
+      "font_class": "shixindiqiu",
+      "unicode": "ffd7",
+      "unicode_decimal": 65495
+    }
+  ]
+}
