@@ -465,9 +465,9 @@ export default {
     },
     handleMonitoring(row) {
       // eslint-disable-next-line no-constant-condition
-      if (process.env.NODE_ENV === 'development' || 'debug') {
+      if (process.env.NODE_ENV === 'development') {
         this.monitoringForm.url = `http://localhost:8080/video/rtsp2flv?rtspUrl=${row.url}&width=640&height=480`;
-      } else if (process.env.NODE_ENV === 'production') {
+      } else {
         this.monitoringForm.url = `${window.location.origin}/wusn-api/video/rtsp2flv?rtspUrl=${row.url}&width=640&height=480`;
       }
       this.monitoringVisible = true;
